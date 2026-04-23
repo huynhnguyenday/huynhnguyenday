@@ -4,6 +4,8 @@
 
 A results-driven Full-Stack Developer specializing in PHP, with hands-on experience delivering and maintaining both Websites and ERP systems. Demonstrated ability to optimize system performance, reducing API response times by 20% and improving Core Web Vitals scores by up to 90%. Experienced across the full development lifecycle, from backend architecture to frontend implementation. Thrives in fast-paced, high-pressure environments while consistently delivering clean, maintainable, and reliable solutions.
 
+Here's my portfolio: https://huynh.vercel.app/
+
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/sCbNvFSV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imodnoliub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hhuyn._.hn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hu%E1%BB%B3nh-nguy%E1%BB%85n-h%E1%BB%AFu/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nguyenhuuhuynh27022003/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nguoidannuocla) 
 
